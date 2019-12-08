@@ -1,8 +1,9 @@
 # jenniferkoh.github.io
 CMSC320 Final Project 
-## Questions
-1) Top 10 highest grossing movie <br>
-2) Production budget vs. Domestic gross. Is there a correlation? <br>
-3) Does the highest budget movie make the most profit? <br>
-4) Do certain genres have better revenue? <br>
-5) Does a higher rating correlate to profit? <br>
+## Question: What is the most important factor of a successful movie?
+Define "success" as the most total revenue.
+1) Budget? Does budget correlate to total revenue?<br>
+2) How does runtime affect total revenue?<br>
+3) What genre typically grosses most?<br>
+4) How do ratings effect a movies success?<br>
+5) Try and predict based off these variables.<br>
